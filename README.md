@@ -1,0 +1,2 @@
+# PicGo-Hosting
+save picture
